@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17193" started-at="2019-06-24T07:11:31Z" finished-at="2019-06-24T07:11:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17193" started-at="2019-06-24T07:11:31Z" finished-at="2019-06-24T07:11:48Z">
+      <class name="cleartrip.automation.BookFlight">
+        <test-method status="PASS" signature="init()[pri:0, instance:cleartrip.automation.BookFlight@61832929]" name="init" is-config="true" duration-ms="14673" started-at="2019-06-24T12:41:31Z" finished-at="2019-06-24T12:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="search_flight_OneWay()[pri:0, instance:cleartrip.automation.BookFlight@61832929]" name="search_flight_OneWay" duration-ms="2421" started-at="2019-06-24T12:41:46Z" finished-at="2019-06-24T12:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_flight_OneWay -->
+      </class> <!-- cleartrip.automation.BookFlight -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
